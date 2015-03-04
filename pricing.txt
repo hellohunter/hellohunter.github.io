@@ -1,0 +1,100 @@
+.. title: Pricing
+.. slug: pricing
+.. date: 2015/01/30 23:00
+.. tags: pricing, purchase HelloHunter
+.. description: The HelloHunter platform can be deployed as a single server or for high capacity environments, deployed across multiple servers.
+
+.. raw:: html
+
+    <div class="hero-unit">
+        <div class="container">
+            <h1>Pricing</h1>
+            <p class="lead">
+                The HelloHunter platform can be deployed as a single server or for high capacity environments, deployed across multiple servers.
+            </p>
+            <div class="row-fluid">
+                <div class="span4 offset4">
+                    <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+                </div>
+          </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row-fluid">
+            <div class="span12">
+                <h2 >Pricing</h2>
+                <div class="media">
+                    After discussing your requirements, we can advise on the best solution for your purpose. Installation usually commences within one working day of payment and access to your server(s).
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+
+    <div class="container">
+        <div class="row-fluid">
+            <div class="span12">
+
+                <div class="price-boxes" style="display: block;">
+                    <div class="span4 price-box">
+                        <h3>Metropolitan</h3>
+                        <strong class="title-grey">Capacity :</strong>
+                        <strong class="title">1 million calls per hour*</strong>
+                        <ul class="list">
+                            <li><strong>Comprehensive Training:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>SSL Certificate:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Support:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Upgrades:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Remote backup:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Support availability:</strong><br/> 5/7 days-12/24 hrs</li>
+                        </ul>
+                        <strong class="title-grey">Cost (Installation & Training):</strong>
+                        <strong class="title">POA</strong>
+
+                        Licensing Cost : <br/>POA
+                    </div>
+                    <div class="span4 price-box">
+                        <h3>Standard</h3>
+                        <strong class="title-grey">Capacity :</strong>
+                        <strong class="title">100,000 calls per hour*</strong>
+                        <ul class="list">
+                            <li><strong>Comprehensive Training:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>SSL Certificate:</strong> No</li>
+                            <li><strong>Support:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Upgrades:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Remote backup:</strong> No</li>
+                            <li><strong>Support availability:</strong><br/> 5/7 days-12/24 hrs</li>
+                        </ul>
+                        <strong class="title-grey">Cost (Installation & Training):</strong>
+                        <strong class="title">$900 USD</strong>
+
+                        Licensing Cost : <br/>$500 / month
+                    </div>
+                    <div class="span4 price-box">
+                        <h3>Lite</h3>
+                        <strong class="title-grey">Capacity :</strong>
+                        <strong class="title">5000 calls per hour*</strong>
+                        <ul class="list">
+                            <li><strong>Comprehensive Training:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>SSL Certificate:</strong> No</li>
+                            <li><strong>Support:</strong> Not included</li>
+                            <li><strong>Upgrades:</strong> No</li>
+                            <li><strong>Remote backup:</strong> No</li>
+                            <li><strong>Support availability:</strong><br/> 5/7 days-12/24 hrs</li>
+                        </ul>
+                        <strong class="title-grey">Cost (Installation & Training):</strong>
+                        <strong class="title">$500 USD</strong>
+
+                        Licensing Cost : <br/>Free
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+
+    </div>

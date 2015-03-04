@@ -1,0 +1,92 @@
+.. title: Contact Us
+.. slug: contact-us
+.. date: 2013/08/18 13:50:00
+.. tags: contact
+.. description: HelloHunter is created by hellohunter. Our mission is to continue provide high quality and innovative telephony software solutions.
+
+.. raw:: html
+
+    <div class="hero-unit">
+        <div class="container">
+            <h1>Contact Us</h1>
+            <p class="lead">
+                HelloHunter was created by hellohunter. Our mission is to provide high quality and innovative telephony software solutions.
+            </p>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="row-fluid">
+            <div class="span6">
+                <div class="media">
+                    <img class="media-object pull-left" src="assets/glyphicons/glyphicons_043_group@2x.png" alt="Reversopm Phone Emergency" width="40">
+                    <div class="media-body">
+                        <h3 class="media-heading">Contact Us</h3>
+                        <div class="media">
+                            Contact us via email to arrange a demo or for sales, support and development at <a href="mailto:hello@hello-hunter.com">hello@hello-hunter.com</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="span6">
+                <div class="media">
+                    <img class="media-object pull-left" src="assets/glyphicons/glyphicons_043_group@2x.png" alt="Reversopm Phone Emergency" width="40">
+                    <div class="media-body">
+                        <h3 class="media-heading">Purchase HelloHunter</h3>
+                        <div class="media">
+                            See <a href="pricing.html">pricing</a> of HelloHunter, or contact us to discuss your specific requirements.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+        <hr>
+
+        <div class="row-fluid">
+            <div class="span5">
+                <div>
+                    <form class="form-search" action="http://star2billing.createsend.com/t/r/s/idiuhid/" method="post">
+                        <p>
+                            <label for="fieldName">Name</label><br />
+                            <input id="fieldName" name="cm-name" type="text" class="span3"/>
+                        </p>
+                        <p>
+                            <label for="fieldEmail">Email</label><br />
+                            <input id="fieldEmail" name="cm-idiuhid-idiuhid" type="email" required />
+                        </p>
+                        <p>
+                            <label for="fielditjjtjl">Message</label><br />
+                            <textarea id="fielditjjtjl" name="cm-f-itjjtjl" rows="5"></textarea>
+                        </p>
+                        <p>
+                            <button class="btn btn-large btn-block btn-success" type="submit">Contact Us</button>
+                        </p>
+                    </form>
+                </div>
+            </div>
+            <div class="span6 offset1 center-in-span">
+
+
+            </div>
+        </div>
+
+        <br/><br/>
+        <hr/>
+
+
+        <div class="row-fluid">
+            <div class="span8">
+                <div class="media">
+                    Hellohunter specialises in commercial and telephony solutions.
+
+                </div>
+            </div>
+
+        </div>
+
+        <p>&nbsp;</p>
+
+    </div>

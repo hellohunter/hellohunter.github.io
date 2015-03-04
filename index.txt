@@ -1,0 +1,162 @@
+.. title: Autodialer System
+.. slug: index
+.. date: 2015/01/30 23:00
+.. tags: dialer, notification, telephone broadcasting
+.. description: HelloHunter Emergency broadcasting system can make millions of calls in a few hours making it a versatile and effective way to send dialer notifications
+.. subtitle: The HelloHunter Emergency telephone broadcasting system can make millions of calls in a few hours making it a versatile and effective way of notifying people about dialer situations.
+
+.. raw:: html
+
+    <div class="hero-unit">
+        <div class="container">
+            <h1>HelloHunter - Autodialer System</h1>
+            <p class="lead">
+                The HelloHunter is White Label Voice Broadcasting telephone broadcasting system can make millions of calls in a few hours, It's a provider of Voice Broadcasting Solutions for your every need. With easy to use interface. <br/><br/>Dedicated servers with 24/7 support! Suitable for political campaigners and Telemarketing.</p>
+
+            <div class="row-fluid">
+                <div class="span4 offset4">
+                    <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- Example row of columns -->
+        <div class="row-fluid">
+            <div class="span12 jumbotron">
+                <span class="subtitle tile-item">Make over thousands calls per hour</span>
+            </div>
+        </div>
+
+        <div class="row demo-tiles">
+            <div class="span12">
+                <div class="tile tile-hot">
+                    <h3 class="tile-title">Autodialer / Voice Broadcasting</h3><br/>
+                    <p class="tile-item">
+                    <span class="icons"><span class="second-icon fui-check"></span></span> Political campaigns<br/>
+                    <span class="icons"><span class="second-icon fui-check"></span></span> Telemarketing<br/>
+                    <span class="icons"><span class="second-icon fui-check"></span></span> Non-profit organizations<br/><br/>
+                    <a class="btn btn-primary btn-large btn-block" href="features.html">Broadcasting Features</a>
+                </div>
+            </div>
+
+        </div> <!-- /tiles -->
+
+        <div class="row-fluid">
+            <div class="span4 offset4">
+                <a class="btn btn-large btn-info center-in-span" href="request-demo.html">Schedule a demo today</a>
+            </div>
+        </div>
+
+        <hr/>
+
+
+        <hr/>
+
+        <h2>Features</h2>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+
+            <div class="span4">
+                <div class="media">
+                    <a class="pull-left" href="#">
+                        <img class="media-object" src="assets/glyphicons/glyphicons_042_pie_chart@2x.png" width="50" alt="Realtime Reporting" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading">REALTIME REPORTING</h4>
+                        <div class="media">
+                           See reports real time reports of all your campaigns, transfers and calling time and more. Call transfer options, digit capture, voice mail drop and more is available as standard.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="span4">
+                <div class="media">
+                    <a class="pull-left" href="#">
+                        <img class="media-object" src="assets/glyphicons/glyphicons_057_history@2x.png" width="50" alt="High Availability" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading">Voice Broadcasting</h4>
+                        <div class="media">
+                            Voice broadcasting allows advertisers, politicians, and non-profit organizations to reach thousands of phone numbers with an extremely low cost per impression.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="span4">
+                <div class="media">
+                    <a class="pull-left" href="#">
+                    <img class="media-object" src="assets/glyphicons/glyphicons_010_envelope@2x.png" width="50" alt="BYOC Support" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading">BYOC</h4>
+                        <div class="media">
+                            What to use your own carrier? No problem with our Bring Your Own Carrier options you can terminate to anyone your choose.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+            <div class="span4">
+                <div class="media">
+                    <a class="pull-left" href="#">
+                    <img class="media-object" src="assets/glyphicons/glyphicons_441_phone_alt@2x.png" width="50" alt="AMD Support" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading">Voicemail Detection</h4>
+                        <div class="media">
+                            Voicemail Detection allowing a different message for voicemail and live answers
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="span4">
+                <div class="media">
+                    <a class="pull-left" href="#">
+                    <img class="media-object" src="assets/glyphicons/glyphicons_048_dislikes@2x.png" width="50" alt="User Friendly" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading">Reseller and White Labeling</h4>
+                        <div class="media">
+                            Start your own Voice Broadcasting business as one of our resellers. We will provide you with everything you need to start making money from our services.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="span4">
+                <div class="media">
+                    <a class="pull-left" href="#">
+                    <img class="media-object" src="assets/glyphicons/glyphicons_280_settings@2x.png" width="50" alt="Api Integration" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading">Call termination</h4>
+                        <div class="media">
+                            We can terminate your calls using our voip services for just 1 cent per min for US and Canada. Please see here for international destinations.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+            <div class="span6 offset3">
+                <a class="btn btn-primary btn-large center-in-span" href="features.html">Full list of Features »</a>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+    </div>
